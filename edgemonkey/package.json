@@ -27,7 +27,7 @@
     "@types/morgan": "^1.9.0",
     "@types/mz": "^2.7.0",
     "@types/random": "^2.1.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "copyfiles": "^2.2.0",
     "express": "^4.17.1",
     "lodash": "^4.17.15",
